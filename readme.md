@@ -14,3 +14,5 @@ import işlemleri de
 * const getData = require('./myModule');
 
 şekillerinde yapıldı.
+
+Githuba yüklerken node_modules klasörü yüklenmedi. İçinde axios var. Projeyi pull ettikten sonra "npm install" derseniz node_modules klasörünü ve içine axios'u kuracaktır.
