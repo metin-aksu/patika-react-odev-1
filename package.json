@@ -1,0 +1,14 @@
+{
+  "name": "patika-react-odev-1",
+  "version": "1.0.0",
+  "description": "İlk NodeJS projem",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Metin AKSU",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
